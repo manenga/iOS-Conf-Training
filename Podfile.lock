@@ -99,7 +99,6 @@ PODS:
   - GoogleUtilities/UserDefaults (7.6.0):
     - GoogleUtilities/Logger
   - KeychainSwift (12.0.0)
-  - libpng (1.6.35)
   - nanopb (2.30908.0):
     - nanopb/decode (= 2.30908.0)
     - nanopb/encode (= 2.30908.0)
@@ -114,7 +113,6 @@ DEPENDENCIES:
   - Alamofire (= 4.8)
   - Firebase (~> 7.11.0)
   - KeychainSwift (~> 12.0)
-  - libpng (~> 1.6)
   - SideMenu (~> 6.0)
   - SwiftyJSON (~> 4.0)
 
@@ -131,7 +129,6 @@ SPEC REPOS:
     - GoogleDataTransport
     - GoogleUtilities
     - KeychainSwift
-    - libpng
     - nanopb
     - PromisesObjC
     - SideMenu
@@ -149,12 +146,11 @@ SPEC CHECKSUMS:
   GoogleDataTransport: cd9db2180fcecd8da1b561aea31e3e56cf834aa7
   GoogleUtilities: 684ee790a24f73ebb2d1d966e9711c203f2a4237
   KeychainSwift: d5e776578587ee5958ce36601df22f168f65138a
-  libpng: c490b0523e94f78697f83ad434fbaf715050e15b
   nanopb: a0ba3315591a9ae0a16a309ee504766e90db0c96
   PromisesObjC: 3113f7f76903778cf4a0586bd1ab89329a0b7b97
   SideMenu: f583187d21c5b1dd04c72002be544b555a2627a2
   SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
 
-PODFILE CHECKSUM: ea4c5aa0531ffc953854f2bdaf2378706757fb5c
+PODFILE CHECKSUM: 774dccf1fea93b9971be00c5985f0b51ecb95764
 
 COCOAPODS: 1.11.2

@@ -1,5 +1,5 @@
 # Uncomment the next line to define a global platform for your project
-# platform :ios, '9.0'
+ platform :ios, '11.0'
 
 target 'Find_my_Data' do
   # Comment the next line if you don't want to use dynamic frameworks
@@ -14,7 +14,7 @@ target 'Find_my_Data' do
   # pod 'FFmpeg', '~> 2.8.3'
   
   pod 'Firebase', '~> 7.11.0' # "6.23.0"
-  pod 'libpng', '~> 1.6'
+#  pod 'libpng', '~> 1.6'
 
   # Error in M1-Mac
   # pod 'TwitterKit', '~> 3.4.2'
